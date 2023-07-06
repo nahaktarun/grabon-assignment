@@ -1,7 +1,3 @@
----
-marp: true
----
-
 # CRUD Application with React and Node.js
 
 This is a simple CRUD (Create, Read, Update, Delete) application built using React on the frontend and Node.js on the backend. The application allows users to manage posts by performing CRUD operations on a JSON file.
